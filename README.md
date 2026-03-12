@@ -1,4 +1,4 @@
-# Games de halloween
+# Games de halloween 🎃🧛🏻‍♂️🦇⚰️
 
 ![The Magic Circle](assets/john-william-waterhouse-magic-circle.JPG)
 
