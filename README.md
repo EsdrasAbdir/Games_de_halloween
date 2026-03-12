@@ -1,5 +1,4 @@
 # Games de halloween 🎃🧛🏻‍♂️🦇⚰️
->>>>>>> 69631a36df98993db4d385d9016b5bc85e0f3240
 
 ![The Magic Circle](assets/john-william-waterhouse-magic-circle.JPG)
 
@@ -19,4 +18,5 @@ Trata-se de um simples game de advinhação dentro da temática Halloween na lin
 ![GIF](assets/original-67dc55d76725e0d116882a5b9f24dd44.gif)
 
 [Meu LinkedIn](https://www.linkedin.com/in/esdras-abdir-issacar-a04862375/)
+
 
